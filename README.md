@@ -20,9 +20,10 @@ To run ZoroSlasher, you need to have Python and Kivy installed on your system. Y
 pip install kivy
 
 Screenshots:-
-![Screenshot from 2024-04-24 00-36-29](https://github.com/dinesh2310ch/zoro_the_slasher/assets/161042200/938e8df5-b047-450c-a55b-a2a00127eff4)
-![Screenshot from 2024-04-24 00-35-01](https://github.com/dinesh2310ch/zoro_the_slasher/assets/161042200/f26bc62e-6a9d-4c51-ad74-481d5cee8de9)
-![Screenshot from 2024-04-24 00-36-58](https://github.com/dinesh2310ch/zoro_the_slasher/assets/161042200/27d3c36d-a9da-4e1c-8e98-00c6e4fc853b)
+![Screenshot from 2024-04-24 00-35-01](https://github.com/dinesh2310ch/zoro_the_slasher/assets/161042200/ce8822e0-7f35-48e6-bb32-8fcac7fa2a7f)
+![Screenshot from 2024-04-24 00-36-58](https://github.com/dinesh2310ch/zoro_the_slasher/assets/161042200/ebc68e2c-929d-485e-9ff8-68f71c1fc927)
+![Screenshot from 2024-04-24 00-36-29](https://github.com/dinesh2310ch/zoro_the_slasher/assets/161042200/8e9b3e4b-f027-4822-9142-ad3648c785db)
+
 
 Contributing
 If you'd like to contribute to ZoroSlasher, please fork the repository and create a pull request.
